@@ -1,6 +1,6 @@
 ###################################################
 # desc : calculate MAP( group by <uuid,session_id> )
-# author : zhangqiang44@meituan.com
+# author : qiangz2012@yeah.net
 ##################################################
 
 def cal_ap( y_actual, y_pred, k ):
