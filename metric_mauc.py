@@ -1,6 +1,6 @@
 ###################################################
 # desc : calculate mAUC( group by <uuid,session_id> )
-# author : zhangqiang44@meituan.com
+# author : qiangz2012@yeah.net
 ##################################################
 
 def pre_rank(x):
